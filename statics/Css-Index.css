@@ -1,0 +1,35 @@
+.contenedor{
+    width: 100%;
+    margin: 0 auto;
+  }
+.container-fluid{
+    background-color: #B8FFF9;
+    color: #B8FFF9;
+}
+.navbar-brand{
+    color: black;
+}
+
+.inner-header{
+    padding: 5%;
+    padding-left: 10%;
+    padding-right: 10%;
+    width: 100%;
+    display:flex;
+    
+
+}
+.img-h1{
+    padding-left: 35%;
+    width: 50%;
+    position:static;
+    vertical-align: text-top;
+}
+
+.inner-asside{
+    padding-left: 5%;
+    display: flexbox;
+}
+article{
+    padding-left: 5%;
+}
