@@ -11,6 +11,7 @@
 }
 
 .inner-header{
+    display: block;
     padding: 5%;
     padding-left: 10%;
     padding-right: 10%;
@@ -25,11 +26,29 @@
     position:static;
     vertical-align: text-top;
 }
-
+.asside-1{
+    width: 30%;
+    float: left;
+    padding-left: 10%;
+}
 .inner-asside{
-    padding-left: 5%;
+    
     display: flexbox;
 }
-article{
+.info-1{
     padding-left: 5%;
+    width: 70%;
+    float: left;
+}
+.footer{
+   display: block;
+   clear: both;
+   padding-left:10% ;
+   padding: 5%;
+}
+li{
+   list-style: none; 
+}
+#button{
+margin: 2%;
 }
